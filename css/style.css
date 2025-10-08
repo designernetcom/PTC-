@@ -9005,7 +9005,7 @@ ol.comment-list li.comment .comment-respond .comment-form p {
 	left: 0;
 	top: 100%;
 	list-style: none;
-	margin: 20px 0 0;
+	/* margin: 20px 0 0; */
 	opacity: 0;
 	padding: 0px;
 	position: absolute;
@@ -9025,7 +9025,7 @@ ol.comment-list li.comment .comment-respond .comment-form p {
 	color:#000;
 	display: block;
 	font-size: 13px;
-	padding: 10px 20px;
+	padding: 2px 20px;
 }
 
 .header-nav .nav>li .sub-menu li a:hover {
