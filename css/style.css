@@ -11213,6 +11213,22 @@ button.scroltop span {
 
 
 
+@media only screen and (max-width: 640px) {
+.section-head h2 {
+    margin-top: 25px;
+    margin-bottom: 55px;
+}
+}
+
+@media only screen and (max-width: 760px) {
+.section-head h2 {
+    margin-top: 25px;
+    margin-bottom: 55px;
+}
+}
+
+
+
 .title-small {
 	display: block;
 	color: #7a959d;
@@ -11268,6 +11284,13 @@ button.scroltop span {
 	h3 {
 		font-size: 32px;
 	}
+}
+
+@media only screen and (max-width: 540px) {
+   .section-head h2 {
+        font-size: 32px;
+        margin-bottom: 55px;
+    }
 }
 
 
